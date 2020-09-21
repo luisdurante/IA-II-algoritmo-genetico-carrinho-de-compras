@@ -1,50 +1,40 @@
-produto;valor;prioridade;categoria
-Ã¡gua;R$ 1.99;5;bebidas
-cerveja;R$ 3.99;2;bebidas
-refrigerante 2L;R$ 6.00;2;bebidas
-vodka;R$ 30.00;1;bebidas
-vinho;R$ 60.00;2;bebidas
-carne bovina;R$ 48.00;4;carne
-frango;R$ 25.00;4;carne
-miÃºdo;R$ 35.00;3;carne
-peixe;R$ 35.00;4;carne
-porco;R$ 30.00;4;carne
-hambÃºrger;R$ 15.00;1;frios e laticÃ­nios
-leite;R$ 3.50;3;frios e laticÃ­nios
-queijo;R$ 18.00;3;frios e laticÃ­nios
-presunto;R$ 18.00;3;frios e laticÃ­nios
-manteiga;R$ 6.00;4;frios e laticÃ­nios
-batata;R$ 5.00;4;frutas, verduras, legumes
-beterraba;R$ 6.00;4;frutas, verduras, legumes
-cenoura;R$ 5.00;4;frutas, verduras, legumes
-brÃ³colis;R$ 6.00;4;frutas, verduras, legumes
-tomate;R$ 7.00;4;frutas, verduras, legumes
-pimentÃ£o;R$ 8.00;3;frutas, verduras, legumes
-pepino;R$ 5.00;4;frutas, verduras, legumes
-alface;R$ 3.00;4;frutas, verduras, legumes
-acabaxi;R$ 6.00;4;frutas, verduras, legumes
-goiaba;R$ 8.00;4;frutas, verduras, legumes
-laranja;R$ 7.00;4;frutas, verduras, legumes
-banana;R$ 6.00;4;frutas, verduras, legumes
-maÃ§a;R$ 8.00;4;frutas, verduras, legumes
-condicionador;R$ 35.00;1;higiene
-cotonete;R$ 10.00;3;higiene
-shampoo;R$ 37.00;3;higiene
-sabonete;R$ 6.00;5;higiene
-gel;R$ 15.00;1;higiene
-escova de dente;R$ 18.00;5;higiene
-hidratante;R$ 45.00;3;higiene
-preservativo;R$ 18.00;5;higiene
-talco;R$ 15.00;2;higiene
-esmalte;R$ 3.00;2;higiene
-biscoitos;R$ 5.00;1;padaria
-bolos;R$ 33.00;1;padaria
-doces;R$ 7.00;1;padaria
-pÃ£es;R$ 3.00;3;padaria
-salgados;R$ 2.00;1;padaria
-tortas;R$ 14.00;1;padaria
-arroz 5kg;R$ 17.00;5;grÃ£os
-feijÃ£o 1kg;R$ 8.00;5;grÃ£os
-grÃ£o de bico 1kg;R$ 10.00;3;grÃ£os
-ervilha 1kg;R$ 8.00;3;grÃ£os
-lentilha 1kg;R$ 6.00;3;grÃ£os
+produto;valor;prioridade;categoria;valor nutritivo;;;;
+água;R$ 1,99;5;bebidas;5;;;;
+cerveja;R$ 3,99;2;bebidas;1;;;;
+refrigerante 2L;R$ 6,00;2;bebidas;1;;;;
+vodka;R$ 30,00;1;bebidas;1;;;;
+vinho;R$ 60,00;2;bebidas;1;;;;
+carne bovina;R$ 48,00;4;carne;4;;;;
+frango;R$ 25,00;4;carne;5;;;;
+miúdo;R$ 35,00;3;carne;3;;;;
+peixe;R$ 35,00;4;carne;4;;;;
+porco;R$ 30,00;4;carne;3;;;;
+hambúrger;R$ 15,00;1;frios e laticínios;2;;;;
+leite;R$ 3,50;3;frios e laticínios;5;;;;
+queijo;R$ 18,00;3;frios e laticínios;5;;;;
+presunto;R$ 18,00;3;frios e laticínios;3;;;;
+manteiga;R$ 6,00;4;frios e laticínios;3;;;;
+batata;R$ 5,00;4;frutas, verduras, legumes;4;;;;
+beterraba;R$ 6,00;4;frutas, verduras, legumes;3;;;;
+cenoura;R$ 5,00;4;frutas, verduras, legumes;4;;;;
+brócolis;R$ 6,00;4;frutas, verduras, legumes;4;;;;
+tomate;R$ 7,00;4;frutas, verduras, legumes;5;;;;
+pimentão;R$ 8,00;3;frutas, verduras, legumes;3;;;;
+pepino;R$ 5,00;4;frutas, verduras, legumes;3;;;;
+alface;R$ 3,00;4;frutas, verduras, legumes;4;;;;
+abacaxi;R$ 6,00;4;frutas, verduras, legumes;5;;;;
+goiaba;R$ 8,00;4;frutas, verduras, legumes;5;;;;
+laranja;R$ 7,00;4;frutas, verduras, legumes;5;;;;
+banana;R$ 6,00;4;frutas, verduras, legumes;5;;;;
+maça;R$ 8,00;4;frutas, verduras, legumes;5;;;;
+biscoitos;R$ 5,00;1;padaria;2;;;;
+bolos;R$ 33,00;1;padaria;1;;;;
+doces;R$ 7,00;1;padaria;1;;;;
+pães;R$ 3,00;3;padaria;3;;;;
+salgados;R$ 2,00;1;padaria;2;;;;
+tortas;R$ 14,00;1;padaria;2;;;;
+arroz 5kg;R$ 17,00;5;grãos;4;;;;
+feijão 1kg;R$ 8,00;5;grãos;4;;;;
+grão de bico 1kg;R$ 10,00;3;grãos;4;;;;
+ervilha 1kg;R$ 8,00;3;grãos;3;;;;
+lentilha 1kg;R$ 6,00;3;grãos;3;;;;
