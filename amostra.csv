@@ -6,14 +6,14 @@ vodka;R$ 30,00;1;bebidas;1
 vinho;R$ 60,00;2;bebidas;1
 carne bovina;R$ 48,00;4;carne;4
 frango;R$ 25,00;4;carne;5
-miúdo;R$ 35,00;3;carne;3
+miúdo;R$ 35,00;1;carne;3
 peixe;R$ 35,00;4;carne;4
 porco;R$ 30,00;4;carne;3
 hambúrger;R$ 15,00;4;frios e laticínios;2
 leite;R$ 3,50;4;frios e laticínios;5
 queijo;R$ 18,00;2;frios e laticínios;5
 presunto;R$ 18,00;2;frios e laticínios;3
-manteiga;R$ 6,00;4;frios e laticínios;3
+manteiga;R$ 6,00;2;frios e laticínios;3
 batata;R$ 5,00;2;frutas, verduras, legumes;4
 beterraba;R$ 6,00;1;frutas, verduras, legumes;3
 cenoura;R$ 5,00;1;frutas, verduras, legumes;4
